@@ -1,3 +1,3 @@
-module http_server
+module github.com/eduardvoiculescu/http-server
 
 go 1.17
